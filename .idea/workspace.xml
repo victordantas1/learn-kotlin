@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8ce080a-19f4-4ed4-bcd1-5fbf40c142d3" name="Changes" comment="" />
+    <list default="true" id="b8ce080a-19f4-4ed4-bcd1-5fbf40c142d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/When.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
