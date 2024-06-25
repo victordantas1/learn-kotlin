@@ -4,3 +4,11 @@
 - Add bin directory path of Java JDK in Enviroment Variables in variable Path
 - Install <a href="https://github.com/JetBrains/kotlin/releases/tag/v2.0.0">Kotlin Compile</a> (roll down and you will find)
 - Add bin directory path of Kotlinc in Enviroment Variables in variable Path
+``` bash
+  # To compile the code
+  $ kotlinc file_name.kt -include-runtime -d file_name.jar
+````
+``` bash
+  # To execute
+  $ java -jar file_name.jar 
+````
